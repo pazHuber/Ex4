@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.paz.ex4.SplashActivity"
+    android:id="@+id/ex4"
+    android:background="@drawable/splash_bg">
+    <TextView
+        android:text="@string/Start_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/startText"
+        android:textStyle="bold"
+        android:textColor="#ffcccc"
+        android:fontFamily="@string/abc_action_bar_home_description"
+        android:textSize="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="104dp" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_above="@+id/startText"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/my_cake_logo"/>
+</RelativeLayout>

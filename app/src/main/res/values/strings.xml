@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ex4</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="Start_welcome">Welcome</string>
+    <string name="Start_to">to</string>
+    <string name="Start_my">my</string>
+    <string name="Start_wedding">wedding</string>
+    <string name="Start_app">app!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">Activity2</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_friend_detail">FriendDetailActivity</string>
+    <string name="title_activity_chat">ChatActivit</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_new_friend">NewFriendActivity</string>
+</resources>
